@@ -1,6 +1,6 @@
 # Fullstack_js
 
-Opgaverne ligger i deres tilhørende uge. 
+Opgaverne ligger i deres tilhørende uge. Og nedernfor beskrives kort, hvad der blev gennemgået i de enkelte uger.
 
 ## Week1 
 Her lærte vi det mest basale om Node. Her gennemgår opgaverne: Callbacks, Hoisting, Modules og Closures. 
